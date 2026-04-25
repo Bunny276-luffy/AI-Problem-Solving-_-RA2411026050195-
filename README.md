@@ -31,7 +31,7 @@ An interactive visualizer that colors a generic map ensuring no two adjacent reg
 - Performance statistics tracking backtracks and execution time.
 - Professional dark-themed UI.
 
-![Problem 5 Map Coloring](https://image.thum.io/get/width/1200/crop/800/https://raw.githack.com/Bunny276-luffy/AI-Problem-Solving-_-RA2411026050195-/main/Problem5_MapColoring/index.html)
+![Problem 5 Map Coloring](./Problem5_MapColoring/preview.png)
 
 ---
 
@@ -47,7 +47,7 @@ A map-based routing simulation that calculates the shortest path between a start
 - Step-by-step visual execution log highlighting explored paths.
 - Dynamic path reconstruction and cost calculation.
 
-![Problem 11 GPS Route Finder](https://image.thum.io/get/width/1200/crop/800/https://raw.githack.com/Bunny276-luffy/AI-Problem-Solving-_-RA2411026050195-/main/Problem11_GPSRouteFinder/index.html)
+![Problem 11 GPS Route Finder](./Problem11_GPSRouteFinder/preview.png)
 
 ---
 
@@ -63,7 +63,7 @@ An unbeatable Tic-Tac-Toe agent that plays flawlessly against human opponents. I
 - Analytics comparing standard Minimax vs Alpha-Beta performance (nodes evaluated).
 - Sophisticated professional chess-app style aesthetics.
 
-![Problem 1 Tic-Tac-Toe AI](https://image.thum.io/get/width/1200/crop/800/https://raw.githack.com/Bunny276-luffy/AI-Problem-Solving-_-RA2411026050195-/main/Problem1_TicTacToe/index.html)
+![Problem 1 Tic-Tac-Toe AI](./Problem1_TicTacToe/preview.png)
 
 ---
 

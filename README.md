@@ -11,9 +11,9 @@
 
 | # | Problem | Algorithm | Difficulty | Demo |
 |---|---------|-----------|------------|------|
-| 5 | Map Coloring Solver | CSP Backtracking + MRV | 🟢 Easy | [Link](./Problem5_MapColoring/index.html) |
-| 11 | GPS Route Finder | A* + Dijkstra | 🟡 Medium | [Link](./Problem11_GPSRouteFinder/index.html) |
-| 1 | Tic-Tac-Toe AI | Minimax + Alpha-Beta | 🔴 Hard | [Link](./Problem1_TicTacToe/index.html) |
+| 5 | Map Coloring Solver | CSP Backtracking + MRV | 🟢 Easy | [Live Demo](https://raw.githack.com/Bunny276-luffy/AI-Problem-Solving-_-RA2411026050195-/main/Problem5_MapColoring/index.html) |
+| 11 | GPS Route Finder | A* + Dijkstra | 🟡 Medium | [Live Demo](https://raw.githack.com/Bunny276-luffy/AI-Problem-Solving-_-RA2411026050195-/main/Problem11_GPSRouteFinder/index.html) |
+| 1 | Tic-Tac-Toe AI | Minimax + Alpha-Beta | 🔴 Hard | [Live Demo](https://raw.githack.com/Bunny276-luffy/AI-Problem-Solving-_-RA2411026050195-/main/Problem1_TicTacToe/index.html) |
 
 ---
 
@@ -31,7 +31,7 @@ An interactive visualizer that colors a generic map ensuring no two adjacent reg
 - Performance statistics tracking backtracks and execution time.
 - Professional dark-themed UI.
 
-![Problem 5](Problem5_MapColoring/preview.png)
+![Problem 5 Map Coloring](https://placehold.co/800x400/1e1e1e/42a5f5?text=Map+Coloring+CSP+Solver)
 
 ---
 
@@ -47,7 +47,7 @@ A map-based routing simulation that calculates the shortest path between a start
 - Step-by-step visual execution log highlighting explored paths.
 - Dynamic path reconstruction and cost calculation.
 
-![Problem 11](Problem11_GPSRouteFinder/preview.png)
+![Problem 11 GPS Route Finder](https://placehold.co/800x400/1e1e1e/66bb6a?text=GPS+City+Route+Finder)
 
 ---
 
@@ -63,7 +63,7 @@ An unbeatable Tic-Tac-Toe agent that plays flawlessly against human opponents. I
 - Analytics comparing standard Minimax vs Alpha-Beta performance (nodes evaluated).
 - Sophisticated professional chess-app style aesthetics.
 
-![Problem 1](Problem1_TicTacToe/preview.png)
+![Problem 1 Tic-Tac-Toe AI](https://placehold.co/800x400/1e1e1e/ef5350?text=Tic-Tac-Toe+AI)
 
 ---
 

@@ -31,7 +31,7 @@ An interactive visualizer that colors a generic map ensuring no two adjacent reg
 - Performance statistics tracking backtracks and execution time.
 - Professional dark-themed UI.
 
-![Problem 5 Map Coloring](./preview1.png)
+![Problem 5 Map Coloring](./preview3.png)
 
 ---
 
@@ -47,7 +47,7 @@ A map-based routing simulation that calculates the shortest path between a start
 - Step-by-step visual execution log highlighting explored paths.
 - Dynamic path reconstruction and cost calculation.
 
-![Problem 11 GPS Route Finder](./preview2.png)
+![Problem 11 GPS Route Finder](./preview1.png)
 
 ---
 
@@ -63,7 +63,7 @@ An unbeatable Tic-Tac-Toe agent that plays flawlessly against human opponents. I
 - Analytics comparing standard Minimax vs Alpha-Beta performance (nodes evaluated).
 - Sophisticated professional chess-app style aesthetics.
 
-![Problem 1 Tic-Tac-Toe AI](./preview3.png)
+![Problem 1 Tic-Tac-Toe AI](./preview2.png)
 
 ---
 

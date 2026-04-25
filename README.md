@@ -31,7 +31,7 @@ An interactive visualizer that colors a generic map ensuring no two adjacent reg
 - Performance statistics tracking backtracks and execution time.
 - Professional dark-themed UI.
 
-![Problem 5 Map Coloring](https://placehold.co/800x400/1e1e1e/42a5f5?text=Map+Coloring+CSP+Solver)
+![Problem 5 Map Coloring](./Problem5_MapColoring/preview.png)
 
 ---
 
@@ -47,7 +47,7 @@ A map-based routing simulation that calculates the shortest path between a start
 - Step-by-step visual execution log highlighting explored paths.
 - Dynamic path reconstruction and cost calculation.
 
-![Problem 11 GPS Route Finder](https://placehold.co/800x400/1e1e1e/66bb6a?text=GPS+City+Route+Finder)
+![Problem 11 GPS Route Finder](./Problem11_GPSRouteFinder/preview.png)
 
 ---
 
@@ -63,7 +63,7 @@ An unbeatable Tic-Tac-Toe agent that plays flawlessly against human opponents. I
 - Analytics comparing standard Minimax vs Alpha-Beta performance (nodes evaluated).
 - Sophisticated professional chess-app style aesthetics.
 
-![Problem 1 Tic-Tac-Toe AI](https://placehold.co/800x400/1e1e1e/ef5350?text=Tic-Tac-Toe+AI)
+![Problem 1 Tic-Tac-Toe AI](./Problem1_TicTacToe/preview.png)
 
 ---
 
